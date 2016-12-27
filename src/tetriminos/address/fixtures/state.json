@@ -1,0 +1,569 @@
+[
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Arkansas",
+      "code": "AR",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Massachusetts",
+      "code": "MA",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Virginia",
+      "code": "VA",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Pennsylvania",
+      "code": "PA",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Delaware",
+      "code": "DE",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Florida",
+      "code": "FL",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Georgia",
+      "code": "GA",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Kansas",
+      "code": "KS",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Louisiana",
+      "code": "LA",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Maryland",
+      "code": "MD",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Missouri",
+      "code": "MO",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Mississippi",
+      "code": "MS",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "North Carolina",
+      "code": "NC",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Oklahoma",
+      "code": "OK",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "South Carolina",
+      "code": "SC",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Tennessee",
+      "code": "TN",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Texas",
+      "code": "TX",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "West Virginia",
+      "code": "WV",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Alabama",
+      "code": "AL",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Connecticut",
+      "code": "CT",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Iowa",
+      "code": "IA",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Illinois",
+      "code": "IL",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Indiana",
+      "code": "IN",
+      "timezone": "America/Indiana/Indianapolis"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Maine",
+      "code": "ME",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Michigan",
+      "code": "MI",
+      "timezone": "America/Detroit"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Minnesota",
+      "code": "MN",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Nebraska",
+      "code": "NE",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "New Hampshire",
+      "code": "NH",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "New Jersey",
+      "code": "NJ",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "New York",
+      "code": "NY",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Ohio",
+      "code": "OH",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Rhode Island",
+      "code": "RI",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Vermont",
+      "code": "VT",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Wisconsin",
+      "code": "WI",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "California",
+      "code": "CA",
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Colorado",
+      "code": "CO",
+      "timezone": "America/Denver"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "New Mexico",
+      "code": "NM",
+      "timezone": "America/Denver"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Nevada",
+      "code": "NV",
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Utah",
+      "code": "UT",
+      "timezone": "America/Denver"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Arizona",
+      "code": "AZ",
+      "timezone": "America/Phoenix"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Idaho",
+      "code": "ID",
+      "timezone": "America/Boise"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Montana",
+      "code": "MT",
+      "timezone": "America/Denver"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "North Dakota",
+      "code": "ND",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Oregon",
+      "code": "OR",
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "South Dakota",
+      "code": "SD",
+      "timezone": "America/Chicago"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Washington",
+      "code": "WA",
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Wyoming",
+      "code": "WY",
+      "timezone": "America/Denver"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Hawaii",
+      "code": "HI",
+      "timezone": "Pacific/Honolulu"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Alaska",
+      "code": "AK",
+      "timezone": "America/Anchorage"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "US",
+      "name": "Kentucky",
+      "code": "KY",
+      "timezone": "America/New_York"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Alberta",
+      "code": "AB",
+      "timezone": "America/Edmonton"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "British Columbia",
+      "code": "BC",
+      "timezone": "America/Vancouver"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Manitoba",
+      "code": "MB",
+      "timezone": "America/Winnipeg"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "New Brunswick",
+      "code": "NB",
+      "timezone": "America/Moncton"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Newfoundland and Labrador",
+      "code": "NL",
+      "timezone": "America/St_Johns"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Nova Scotia",
+      "code": "NS",
+      "timezone": "America/Halifax"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Ontario",
+      "code": "ON",
+      "timezone": "America/Toronto"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Prince Edward Island",
+      "code": "PE",
+      "timezone": "America/Moncton"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Quebec",
+      "code": "QC",
+      "timezone": "America/Montreal"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Saskatchewan",
+      "code": "SK",
+      "timezone": "America/Regina"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Yukon",
+      "code": "YT",
+      "timezone": "America/Whitehorse"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Northwest Territories",
+      "code": "NT",
+      "timezone": "America/Cambridge_Bay"
+    }
+  },
+  {
+    "model": "address.State",
+    "fields": {
+      "country_code": "CA",
+      "name": "Nunavut",
+      "code": "NU",
+      "timezone": "America/Cambridge_Bay"
+    }
+  }
+]

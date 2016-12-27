@@ -1,0 +1,16 @@
+[
+  {
+    "model": "address.Country",
+    "pk": "CA",
+    "fields": {
+      "name": "Canada"
+    }
+  },
+  {
+    "model": "address.Country",
+    "pk": "US",
+    "fields": {
+      "name": "United States"
+    }
+  }
+]
