@@ -1,5 +1,5 @@
 """
-Django settings for origami project.
+Django settings for project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/dev/topics/settings/
@@ -90,9 +90,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'origami.urls'
+ROOT_URLCONF = 'tetris.urls'
 
-WSGI_APPLICATION = 'origami.wsgi.application'
+WSGI_APPLICATION = 'tetris.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
