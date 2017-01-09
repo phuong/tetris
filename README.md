@@ -1,8 +1,8 @@
 
 
-# origami
+# tetris
 
-origami is a _short description_. It is built with [Python][0] using the [Django Web Framework][1].
+tetris is a template with some basic features. It is built with [Python][0] using the [Django Web Framework][1].
 
 This project has the following basic apps:
 
